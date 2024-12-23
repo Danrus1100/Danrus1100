@@ -2,4 +2,4 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Yandex
-- 📫 How to reach me tg: https://danrus110.t.me
+- 📫 How to reach me in discord: danrus110
