@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Daniil
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Yandex
-- 📫 How to reach me in discord: danrus110
+
